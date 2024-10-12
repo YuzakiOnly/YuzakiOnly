@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm M.ARYA ARDIANSYAH</h1>
 <h3 align="center">I want to grow as a front end developer but want to also learn about the back end.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuzakionly&label=Profile%20views&color=0e75b6&style=flat" alt="yuzakionly" /> </p>
 
