@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm M.ARYA ARDIANSYAH</h1>
 <h3 align="center">I want to grow as a front end developer but want to also learn about the back end.</h3>
 
