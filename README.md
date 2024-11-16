@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *tailwind CSS, Laravel, PHP, Database and other.*
 
-- 💬 Ask me about *HTML, CSS AND JAVASCRIPT*
+- 💬 Ask me about *HTML, Tailwind CSS, Boostrap, PHP ,CSS ,JAVASCRIPT AND Other(If you can)*
 
 - 📫 How to reach me *aryamenk2007@gmail.com*
 
