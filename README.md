@@ -1,6 +1,6 @@
 [![MasterHead](https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm M.ARYA ARDIANSYAH</h1>
-<h3 align="center">I want to grow as a front end developer but want to also learn about the back end.</h3>
+<h3 align="center">I want to grow as a Full Stack Developer, but most of the skills are on the Front End.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
