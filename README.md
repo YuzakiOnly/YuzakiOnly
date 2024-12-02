@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **tailwind CSS, Laravel, PHP, Database and other.**
 
-💬 Ask me about **HTML, Tailwind CSS, Boostrap, PHP ,CSS ,JAVASCRIPT... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **HTML, Tailwind CSS, Boostrap, PHP ,CSS ,JAVASCRIPT... or anything [here](https://github.com/YuzakiOnly)**
 
 ⚡ Fun fact **I'm having so much fun in this coding world.**
 
