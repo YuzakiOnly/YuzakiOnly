@@ -12,9 +12,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuzakionly&label=Profile%20views&color=0e75b6&style=flat" alt="yuzakionly" /> </p>
-<div align="center">
  
 - 🔭 I’m currently working on [Rumah Makan Amenk](https://github.com/YuzakiOnly/Rumah-Amenk.git)
 
@@ -61,17 +58,4 @@
 
 <hr/>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/share/lvtssxrjfsz3narn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/lvtssxrjfsz3narn/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yuzakidesuu_/profilecard/?igsh=mtd5mjb5dxn1dwfvng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yuzakidesuu_/profilecard/?igsh=mtd5mjb5dxn1dwfvng==" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,cpp,html,css,laravel,tailwind,dart,discord,flutter,github,js,php,py,vscode" />
-  </a>
-</p>
 
