@@ -8,17 +8,18 @@
 
 [![MasterHead](https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm M.ARYA ARDIANSYAH</h1>
-<!-- <h3 align="center">I want to grow as a Full Stack Developer, but most of the skills are on the Front End.</h3> -->
- 
-- 🔭 I’m currently working on [Rumah Makan Amenk](https://github.com/YuzakiOnly/Rumah-Amenk.git)
 
-- 🌱 I’m currently learning *tailwind CSS, Laravel, PHP, Database and other.*
+<br/>
+ <div align="center">
+ 🔭 I’m currently working on [Rumah Makan Amenk](https://github.com/YuzakiOnly/Rumah-Amenk.git)
 
-- 💬 Ask me about *HTML, Tailwind CSS, Boostrap, PHP ,CSS ,JAVASCRIPT AND Other(If you can)*
+ 🌱 I’m currently learning *tailwind CSS, Laravel, PHP, Database and other.*
 
-- 📫 How to reach me *aryamenk2007@gmail.com*
+ 💬 Ask me about *HTML, Tailwind CSS, Boostrap, PHP ,CSS ,JAVASCRIPT AND Other(If you can)*
 
-- ⚡ Fun fact *I'm having so much fun in this coding world.*
+ 📫 How to reach me *aryamenk2007@gmail.com*
+
+ ⚡ Fun fact *I'm having so much fun in this coding world.*
 
  </div>
  
