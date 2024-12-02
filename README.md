@@ -7,7 +7,7 @@
 <br/>
 
 [![MasterHead](https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm M.ARYA ARDIANSYAH</h1>
+<h1 align="center">Hi 👋, I'm M. ARYA ARDIANSYAH</h1>
 
 <br/>
  <div align="center">
