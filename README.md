@@ -11,15 +11,14 @@
 
 <br/>
  <div align="center">
- 🔭 I’m currently working on [Rumah Makan Amenk](https://github.com/YuzakiOnly/Rumah-Amenk.git)
 
- 🌱 I’m currently learning *tailwind CSS, Laravel, PHP, Database and other.*
+  🔭 I’m currently working on **Portofolio And Marketplace**
+ 
+ 🌱 I’m currently learning **tailwind CSS, Laravel, PHP, Database and other.**
 
- 💬 Ask me about *HTML, Tailwind CSS, Boostrap, PHP ,CSS ,JAVASCRIPT AND Other(If you can)*
+💬 Ask me about **HTML, Tailwind CSS, Boostrap, PHP ,CSS ,JAVASCRIPT... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
- 📫 How to reach me *aryamenk2007@gmail.com*
-
- ⚡ Fun fact *I'm having so much fun in this coding world.*
+⚡ Fun fact **I'm having so much fun in this coding world.**
 
  </div>
  
