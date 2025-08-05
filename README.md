@@ -2,44 +2,45 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Hi+WELCOME+TO+GITHUB+ME!+👋;+I'm+M.+ARYA+ARDIANSYAH!;" />
 </h1>
 
-<h3 align="center">I want to grow as a Full Stack Developer, but most of the skills are on the Front End.</h3>
+<h3 align="center">I want to grow as a Frontend Developer, but also learning backend as well.</h3>
 
 <br/>
 
 [![MasterHead](https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm M. ARYA ARDIANSYAH</h1>
 
 <br/>
- <div align="center">
+<div align="center">
 
-  🔭 I’m currently working on **Portofolio And Marketplace**
- 
- 🌱 I’m currently learning **tailwind CSS, Laravel, PHP, Database and other.**
+🔭 I’m currently working on **Portfolio And Marketplace**
 
-💬 Ask me about **HTML, Tailwind CSS, Boostrap, PHP ,CSS ,JAVASCRIPT... or anything [here](https://github.com/YuzakiOnly)**
+🌱 I’m currently learning **Tailwind CSS, Laravel, PHP, Database and more**
 
-⚡ Fun fact **I'm having so much fun in this coding world.**
+💬 Ask me about **HTML, Tailwind CSS, Bootstrap, PHP, CSS, JavaScript, or anything [here](https://github.com/YuzakiOnly)**
 
- </div>
- 
+⚡ Fun fact: **I'm having so much fun in this coding world.**
+
+</div>
+
 <div align="center"> 
-  <a href="aryamenk2007@gmail.com">
+  <a href="mailto:aryamenk2007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/YuzakiOnly" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<hr/>
+
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,laravel,tailwind,dart,discord,flutter,github,js,php,py,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,laravel,tailwind,dart,discord,flutter,github,js,php,vscode,mysql,react,nextjs,prisma,vercel" />
 </div>
 
 <br/>
@@ -48,13 +49,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
-
 </div>
 
 <hr/>
-
-
