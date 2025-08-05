@@ -37,12 +37,10 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<h2 align="center pb-4">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <div align="center">
-  <!-- Baris 1 -->
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,vscode,github,mysql,laravel,react,typescript,nextjs,prisma,vercel" />
   <br/><br/>
-  <!-- Baris 2 -->
   <img src="https://skillicons.dev/icons?i=discord" />
 </div>
 
