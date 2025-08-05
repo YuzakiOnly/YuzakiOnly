@@ -15,7 +15,7 @@
 
 🔭 I’m currently working on **Portfolio And Marketplace**
 
-🌱 I’m currently learning **Tailwind CSS, Laravel, PHP, Database and more**
+🌱 I’m currently learning **React JS, Next JS, Javascript, Database and more**
 
 💬 Ask me about **HTML, Tailwind CSS, Bootstrap, PHP, CSS, JavaScript, or anything [here](https://github.com/YuzakiOnly)**
 
@@ -27,7 +27,7 @@
   <a href="mailto:aryamenk2007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/m-arya-ardiansyah-883873378/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/YuzakiOnly" target="_blank">
