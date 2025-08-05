@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,laravel,tailwind,discord,github,js,php,vscode,mysql,react,nextjs,prisma,vercel" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,laravel,tailwind,discord,github,js,php,vscode,mysql,react,typescript,nextjs,prisma,vercel" />
 </div>
 
 <br/>
