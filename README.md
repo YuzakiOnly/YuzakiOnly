@@ -40,8 +40,13 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,laravel,tailwind,discord,github,js,php,vscode,mysql,react,typescript,nextjs,prisma,vercel" />
+  <!-- Baris 1 -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,vscode,github" />
+  <br/><br/>
+  <!-- Baris 2 -->
+  <img src="https://skillicons.dev/icons?i=mysql,laravel,react,typescript,nextjs,prisma,vercel,discord" />
 </div>
+
 
 <br/>
 <hr/>
